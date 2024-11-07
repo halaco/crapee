@@ -1,0 +1,7 @@
+image: halaco/gitpod-workspace-base-bazelisk:bazel.7.0-latest
+vscode:
+  extensions:
+    - bazelbuild.vscode-bazel
+    - streetsidesoftware.code-spell-checker
+    - mhutchie.git-graph
+    - shardulm94.trailing-spaces
